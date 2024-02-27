@@ -14,6 +14,7 @@
         android:orientation="horizontal">
 
     <Button
+        android:id="@+id/btn1"
         android:layout_width="306dp"
         android:layout_height="58dp"
         android:layout_marginLeft="32dp"
